@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**ahmedHusseinF/ahmedHusseinF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Probably you know my name by now, this is some stuff about me.
 
-Here are some ideas to get you started:
+- a nerd in the wild.
+- an internetovert.
+- under-estimate but over-perform.
+- swimming is the best sport and football (both actually) sucks.
+- fun fact: There are 1 million ants for every human in the world.
+- Ask me about anything with a ones and zeros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Github Stats :zap:
+
+![](https://github-readme-stats.vercel.app/api?username=ahmedHusseinF&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedHusseinF&layout=compact)
