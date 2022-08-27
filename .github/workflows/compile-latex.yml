@@ -1,0 +1,12 @@
+name: Compile Résumé
+on: [push]
+jobs:
+  Compile-Resume:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Compile LaTeX résumé
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: docs/main.tex
