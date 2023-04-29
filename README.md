@@ -5,9 +5,9 @@ Probably you know my name by now, this is some stuff about me.
 - a nerd in the wild.
 - an internetovert.
 - under-estimate but over-perform.
-- swimming is the best sport and football (both actually) sucks.
+- swimming is the best sport and football (both versions actually) sucks.
 - fun fact: There are 1 million ants for every human in the world.
-- Ask me about anything with a ones and zeros.
+- Ask me about anything with ones and zeros.
 
 
 
